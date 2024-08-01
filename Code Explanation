@@ -1,20 +1,20 @@
-1. **Data Loading and Cleaning:**
+1. Data Loading and Cleaning:
    - Load the dataset.
    - Clean the data by removing any missing values.
 
-2. **Feature Selection:**
+2. Feature Selection:
    - Select the relevant features for clustering.
 
-3. **Dimensionality Reduction:**
+3.Dimensionality Reduction:
    - Apply PCA to reduce the dataset to 2 principal components.
    - Apply t-SNE to reduce the dataset to 2 dimensions.
 
-4. **Clustering:**
+4.Clustering:
    - Perform K-Means clustering on the PCA-reduced data.
    - Perform DBSCAN clustering on the PCA-reduced data.
 
-5. **Evaluation:**
+5. Evaluation:
    - Evaluate the clustering performance using silhouette scores and Davies-Bouldin scores.
 
-6. **Visualization:**
+6. Visualization:
    - Plot the clustering results for both PCA and t-SNE reduced data.
