@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project focuses on enhancing clustering accuracy in high-dimensional datasets by addressing the challenges posed by the curse of dimensionality. The project employs advanced dimensionality reduction techniques, feature selection methods, and specialized algorithms to improve the performance of clustering methods such as k-means. This project was conducted in collaboration with the University of Delaware from May 2023 to July 2023.
-
+This project focuses on enhancing clustering accuracy in high-dimensional datasets by addressing the challenges posed by the curse of dimensionality. The project employs advanced dimensionality reduction techniques, feature selection methods, and specialized algorithms to improve the performance of clustering methods such as k-means. 
 ## Features
 
 - **Dimensionality Reduction:** Applied techniques to reduce the number of random variables under consideration.
